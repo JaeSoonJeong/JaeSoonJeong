@@ -1,4 +1,3 @@
-## Personal Account
 <a href="https://github.com/JeongJaeSoon">
         <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=JaeSoon%20Jeong&fontSize=80&fontAlignY=70&animation=twinkling" />
 </a>
