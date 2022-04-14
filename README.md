@@ -1,5 +1,5 @@
 <a href="https://github.com/JeongJaeSoon">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=JaeSoon%20Jeong&fontSize=80&fontAlignY=70&animation=twinkling" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Jeong%20JaeSoon&fontSize=80&fontAlignY=70&animation=twinkling" />
 </a>
 
 <!---
